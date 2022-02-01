@@ -10,4 +10,10 @@ git add .gitignore README.md <br>
 git commit -m "Commit 0" -m "Added .gitignore READEME.md" <br>
 git push -u origin main <br>
 git status <br>
+Commit 2 Edit README.md <br>
+git add README.md <br>
+git commit -m "Commit 1" -m "Edit README.md" <br>
+git push -u origin main
+git status <br>
+
 
